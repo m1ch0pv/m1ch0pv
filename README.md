@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![boost my agents](https://app.boostmyagents.com/badge/m1ch0pv.svg)](https://app.boostmyagents.com/d/m1ch0pv)
+
 <!--
 **m1ch0pv/m1ch0pv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
